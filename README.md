@@ -1,6 +1,6 @@
 # Implementing Two-Factor Authentication 2FA with OTP in Django for Enhanced-Website-Protection
 
-# Django OTP Integration Task
+## Django OTP Integration Task
 
 This README provides an overview of the task steps followed to integrate OTP (One-Time Password) authentication into a Django project.
 
